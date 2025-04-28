@@ -20,6 +20,7 @@
             "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-doppler-1.2.9.zip",
             "archiveFileName": "dadamachines-doppler-1.2.9.zip",
             "size": "6207403",
+            "checksum": "SHA-256:6b903ecb7b99685a74a5bd27bca24aa8ed2614f34474ce8ecad9b19aa5c06268"
             "boards": [{
             "name": "dadamachines doppler",
             "toolsDependencies": [
@@ -63,6 +64,7 @@
             "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-doppler-1.3.0.zip",
             "archiveFileName": "dadamachines-doppler-1.3.0.zip",
             "size": "6207403",
+	    ""checksum": "SHA-256:42a763e6467775cba08f829a208e2c92c1dd392361bf9181a7de631a2cf50bb0"
             "boards": [{
             "name": "dadamachines doppler",
             "toolsDependencies": [
@@ -106,6 +108,7 @@
             "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-doppler-1.3.1.zip",
             "archiveFileName": "dadamachines-doppler-1.3.1.zip",
             "size": "6207403",
+            "checksum": "SHA-256:336eee176ba313a9ed62a57778e68332a16ccee93f71e76d195cfcfd21fcf339"
             "boards": [{
             "name": "dadamachines doppler",
             "toolsDependencies": [

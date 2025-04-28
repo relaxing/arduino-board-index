@@ -20,7 +20,7 @@
         "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-m0-1.0.7.zip",
         "archiveFileName": "dadamachines-m0-1.0.7.zip",
         "size": "37129",
-	"checksum": "SHA-256:98df8c2bf68bc36f4f994d2a1cc4b57f2ded4fe1f5943f596da61c328d0364f4"
+	"checksum": "SHA-256:98df8c2bf68bc36f4f994d2a1cc4b57f2ded4fe1f5943f596da61c328d0364f4",
         "boards": [{
           "name": "dadamachines automat"
         }]

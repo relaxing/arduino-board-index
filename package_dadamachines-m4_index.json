@@ -64,7 +64,7 @@
             "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-doppler-1.3.0.zip",
             "archiveFileName": "dadamachines-doppler-1.3.0.zip",
             "size": "6207403",
-	    ""checksum": "SHA-256:42a763e6467775cba08f829a208e2c92c1dd392361bf9181a7de631a2cf50bb0",
+	    "checksum": "SHA-256:42a763e6467775cba08f829a208e2c92c1dd392361bf9181a7de631a2cf50bb0",
             "boards": [{
             "name": "dadamachines doppler",
             "toolsDependencies": [
